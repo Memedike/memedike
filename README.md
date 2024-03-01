@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memedike&show_icons=true&locale=en" alt="memedike" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memedike&" alt="memedike" /></p>
+
+
+
+![snake gif](https://github.com/memedike/memedike/blob/output/github-contribution-grid-snake.gif)
